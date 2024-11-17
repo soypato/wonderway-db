@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "fc96",
+      "name": "Juanma Ciardi",
+      "email": "juanmaciardi@gmail.com",
+      "password": "d2bSpGj7su/ghHjKSB69Zc1iAmrgYnkXxJ19m+RmndYbZ3j8WA==",
+      "role": "usuario",
+      "active": true,
+      "travel": [
+        {
+          "name": "Visitar a Pato",
+          "location": "Mar del Plata",
+          "startDate": "2024-11-25",
+          "services": []
+        },
+        {
+          "name": "A",
+          "location": "asd",
+          "startDate": "2000-12-21",
+          "services": []
+        }
+      ]
+    }
+  ]
+}
